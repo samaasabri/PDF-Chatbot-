@@ -1,0 +1,14 @@
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+pdfplumber
+langchain-groq
+python-multipart
+
